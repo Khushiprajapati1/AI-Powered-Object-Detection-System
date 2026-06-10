@@ -1,0 +1,9 @@
+PS C:\STUDY\AI_Project>visionenv\Scripts\activate
+
+(visionenv) PS C:\STUDY\AI_Project>cd Backend
+
+(visionenv) PS C:\STUDY\AI_Project>cd frontend
+
+for frontend :- npm run dev
+
+for backend :- uvicorn main:app --reload

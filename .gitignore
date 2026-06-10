@@ -1,0 +1,60 @@
+# React
+frontend/node_modules/
+frontend/build/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# YOLO weights
+*.pt
+
+# Training outputs
+runs/
+
+# Train / Test Images
+images/
+
+# Virtual Environment
+visionenv/
+venv/
+.env
+
+# Audio Files
+voice*
+*.wav
+*.mp3
+
+# Temporary Files
+Untitled*
+data
+Commands
+
+# Documentation
+*.pdf
+*.ppt
+*.pptx
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.xlsm
+*.csv
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# OS Files
+.DS_Store
+Thumbs.db
