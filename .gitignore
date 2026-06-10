@@ -47,6 +47,7 @@ Commands
 *.xlsx
 *.xlsm
 *.csv
+*.txt
 
 # Archives
 *.zip
